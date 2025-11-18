@@ -1,0 +1,7 @@
+{
+  "name": "Hospital Compliance Tracer Dashboard",
+  "description": "An AI-powered dashboard to upload, visualize, and analyze hospital compliance tracer data from a CSV file. Features include dynamic data filtering, insightful charts, an AI chatbot for Q&A, in-depth analysis of findings with Gemini, and audio note transcription.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
